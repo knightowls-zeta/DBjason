@@ -6,13 +6,60 @@
     }
   ],
   "profile": [
-  {
-     "id": 1,
-    "name": "Allen",
-    "number": "09054991182",
-    "address": "Taal",
-    "email": "Allen@gmail.com"
     
-  }
+  {
+  "email" : "user1@test.com",
+  "password" : "12345678",
+  "firstname" : "Alpha",
+  "lastname" : "Dela Cruz",
+  "mobile" : "09171234567",
+  "birthday" : "2001-05-06"
+  },
+    
+  {
+  "email" : "user2@test.com",
+  "password" : "12345678",
+  "firstname" : "Beta",
+  "lastname" : "Dela Cruz",
+  "mobile" : "09171234567",
+  "birthday" : "2002-05-06"
+  },
+    
+  {
+  "email" : "user3@test.com",
+  "password" : "12345678",
+  "firstname" : "Charlie",
+  "lastname" : "Dela Cruz",
+  "mobile" : "09171234567",
+  "birthday" : "2003-05-06"
+  },
+    
+  {
+  "email" : "user4@test.com",
+  "password" : "12345678",
+  "firstname" : "Delta",
+  "lastname" : "Dela Cruz",
+  "mobile" : "09171234567",
+  "birthday" : "2004-05-06"
+  },
+    
+  {
+  "email" : "user5@test.com",
+  "password" : "12345678",
+  "firstname" : "Echo",
+  "lastname" : "Dela Cruz",
+  "mobile" : "09171234567",
+  "birthday" : "2005-05-06"
+  },
+    
+  {
+  "email" : "user6@test.com",
+  "password" : "12345678",
+  "firstname" : "Foxtrot",
+  "lastname" : "Dela Cruz",
+  "mobile" : "09171234567",
+  "birthday" : "2006-05-06"
+  },
+   
     ]
 }
