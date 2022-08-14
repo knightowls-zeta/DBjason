@@ -52,14 +52,5 @@
   "birthday" : "2005-05-06"
   },
     
-  {
-  "email" : "user6@test.com",
-  "password" : "12345678",
-  "firstname" : "Foxtrot",
-  "lastname" : "Dela Cruz",
-  "mobile" : "09171234567",
-  "birthday" : "2006-05-06"
-  },
-   
     ]
 }
