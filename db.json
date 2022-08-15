@@ -12,60 +12,20 @@
   "rank": "01",
   "player": "OhMyVeenus-Ph hehe",
   "silver": "99,999"
-  },
-    
-  {
-  "rank": "02",
-  "player": "Kekingkyawz",
-  "silver": "99,999"
-  },  
-  
-  {
-  "rank": "03",
-  "player": "GaayPotato",
-  "silver": "99,999"
-  },
-  
-  {
-  "rank": "04",
-  "player": "ChantzYz",
-  "silver": "99,999"
-  },
-  
-  {
-  "rank": "05",
-  "player": "h2WO",
-  "silver": "99,999"
-  },
-  
-  {
-  "rank": "06",
-  "player": "OhMyVeenus-Ph hehe",
-  "silver": "99,999"
-  },
-    
-  {
-  "rank": "07",
-  "player": "Kekingkyawz",
-  "silver": "99,999"
-  },  
-    
-  {
-  "rank": "08",
-  "player": "GaayPotato",
-  "silver": "99,999"
-  },  
-    
-  {
-  "rank": "09",
-  "player": "ChantzYz",
-  "silver": "99,999"
-  },  
-    
-  {
-  "rank": "10",
-  "player": "h2WO",
-  "silver": "99,999"
   }
+    
+
     ],
+  
+   
+  "charitylists": [
+    
+  {
+  "rank": "01",
+  "charity": "Philippines Red Cross",
+  }
+  
+
+    
+  ] 
 }
