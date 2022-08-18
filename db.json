@@ -118,26 +118,32 @@
   "questionslist": [
   {
   "points": 1,
+  "type": "easy",
   "question": "EASY"
   },
   {
   "points": 1,
+  "type": "easy",
   "question": "EASY"
   },  
   {
   "points": 2,
+  "type": "medium",
   "question": "MEDIUM"
   }, 
   {
   "points": 2,
+  "type": "medium",
   "question": "MEDIUM"
   },
   {
   "points": 3,
+  "type": "hard",
   "question": "HARD"
   },
   {
-  "points": 4,
+  "points": 3,
+  "type": "hard",
   "question": "HARD"
   }
     
