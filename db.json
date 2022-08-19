@@ -77,6 +77,11 @@
   
   "questionslist": [
   {
+   "type": "start",
+   "question": "START",
+   "option": "start"
+  },
+  {
   "points": 1,
   "type": "easy",
   "question": "EASY",
