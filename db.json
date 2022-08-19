@@ -108,7 +108,7 @@
   {
   "points": 1,
   "type": "easy",
-  "question": "EASY",
+  "question": "E",
   "option": ["YES","NO"],
   "correct_option": "YES" 
   },
