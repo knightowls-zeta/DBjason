@@ -2,21 +2,18 @@
   "leaderboards": [
   {
   "picture": "PICTURE1",
-  "id": 1,
   "player": "OhMyVeenus-Ph hehe",
   "silver": 199999
   },
    
   {
    "picture": "PICTURE2",
-  "id": 2,
   "player": "OhMyVeenus-Ph hehe",
   "silver": 299999
   },  
     
   {
   "picture": "PICTURE3",
-  "id": 3,
   "player": "OhMyVeenus-Ph hehe",
   "silver": 39999
   },  
