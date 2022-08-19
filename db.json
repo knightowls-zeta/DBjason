@@ -1,64 +1,49 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  
   "leaderboards": [
   {
+  "picture": "PICTURE1"
   "id": 1,
   "player": "OhMyVeenus-Ph hehe",
   "silver": 199999
   },
    
   {
+   "picture": "PICTURE2"
   "id": 2,
   "player": "OhMyVeenus-Ph hehe",
   "silver": 299999
   },  
     
   {
+  "picture": "PICTURE3"
   "id": 3,
   "player": "OhMyVeenus-Ph hehe",
   "silver": 39999
   },  
     
   {
+   "picture": "PICTURE4"
   "player": "OhMyVeenus-Ph hehe",
   "silver": 499999
   },  
     
   {
+    "picture": "PICTURE5"
   "player": "OhMyVeenus-Ph hehe",
   "silver": 799999
   },  
     
   {
+    "picture": "PICTURE6"
   "player": "OhMyVeenus-Ph hehe",
   "silver": 69999
   }, 
     
   {
+    "picture": "PICTURE7"
   "player": "OhMyVeenus-Ph hehe",
   "silver": 599999
-  },  
-    
-  {
-  "player": "OhMyVeenus-Ph hehe",
-  "silver": 899999
-  },
-    
-  {
-  "player": "OhMyVeenus-Ph hehe",
-  "silver": 999999
-  },
-    
-  {
-  "player": "OhMyVeenus-Ph hehe",
-  "silver": 99999
-  }  
+  }
    
     ],
   
