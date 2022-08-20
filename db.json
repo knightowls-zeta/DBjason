@@ -85,42 +85,42 @@
   {
   "points": 1,
   "type": "easy",
-  "question": "EASY",
+  "question": "EASY1",
   "option": ["YES","NO"],
   "correct_option": "YES" 
   },
   {
   "points": 1,
   "type": "easy",
-  "question": "EASY",
+  "question": "EASY2",
   "option": ["YES","NO"],
   "correct_option": "YES" 
   },  
   {
   "points": 2,
   "type": "medium",
-  "question": "MEDIUM",
+  "question": "MEDIUM1",
   "option": ["YES","NO"],
   "correct_option": "YES" 
   }, 
   {
   "points": 2,
   "type": "medium",
-  "question": "MEDIUM",
+  "question": "MEDIUM2",
   "option": ["YES","NO"],
   "correct_option": "YES" 
   },
   {
   "points": 3,
   "type": "hard",
-  "question": "HARD",
+  "question": "HARD1",
   "option": ["YES","NO"],
   "correct_option": "YES" 
   },
   {
   "points": 3,
   "type": "hard",
-  "question": "HARD",
+  "question": "HARD2",
   "option": ["YES","NO"],
   "correct_option": "YES" 
   }
