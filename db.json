@@ -79,7 +79,8 @@
   {
    "type": "start",
    "question": "START",
-   "option": "start"
+   "option": "start",
+   "correct_option": "start" 
   },
   {
   "points": 1,
