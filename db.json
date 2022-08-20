@@ -78,7 +78,7 @@
   "questionslist": [
   {
    "type": "start",
-   "question": "START",
+   "question": "start",
    "option": "start",
    "correct_option": "start" 
   },
