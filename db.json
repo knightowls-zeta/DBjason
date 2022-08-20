@@ -77,12 +77,6 @@
   
   "questionslist": [
   {
-   "type": "start",
-   "question": "start",
-   "option": "start",
-   "correct_option": "start" 
-  },
-  {
   "points": 1,
   "type": "easy",
   "question": "EASY1",
