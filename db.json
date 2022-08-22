@@ -86,7 +86,7 @@
   {
   "points": 1,
   "type": "easy",
-  "question": "will TNT Tropang Giga get the first foul?",
+  "question": "Will TNT Tropang Giga get the first foul?",
   "option": ["YES","NO"],
   "correct_option": "YES" 
   },
@@ -99,8 +99,8 @@
   },  
   {
   "points": 2,
-  "type": "Will the first free throw scores?",
-  "question": "MEDIUM1",
+  "type": "medium",
+  "question": "Will the first free throw scores?",
   "option": ["YES","NO"],
   "correct_option": "YES" 
   }, 
