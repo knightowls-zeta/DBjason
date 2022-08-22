@@ -79,27 +79,27 @@
   {
   "points": 1,
   "type": "easy",
-  "question": "EASY1",
+  "question": "Will the first basket scores 3 points?",
   "option": ["YES","NO"],
   "correct_option": "YES" 
   },
   {
   "points": 1,
   "type": "easy",
-  "question": "EASY2",
+  "question": "will TNT Tropang Giga get the first foul?",
   "option": ["YES","NO"],
   "correct_option": "YES" 
   },
   {
   "points": 1,
   "type": "easy",
-  "question": "EASY3",
+  "question": "Will NLEX Road Warriors lead the first quarter?",
   "option": ["YES","NO"],
   "correct_option": "YES" 
   },  
   {
   "points": 2,
-  "type": "medium",
+  "type": "Will the first free throw scores?",
   "question": "MEDIUM1",
   "option": ["YES","NO"],
   "correct_option": "YES" 
