@@ -77,6 +77,12 @@
   
   "questionslist": [
   {
+  "type": "START",
+  "question": "START",
+  "option": "START,
+  "correct_option": "START" 
+  },
+  {
   "points": 1,
   "type": "easy",
   "question": "Will the first basket scores 3 points?",
