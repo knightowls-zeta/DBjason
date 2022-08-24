@@ -79,7 +79,7 @@
   {
   "type": "START",
   "question": "START",
-  "option": "START",
+  "option": ["START"],
   "correct_option": "START" 
   },
   {
