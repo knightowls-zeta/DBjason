@@ -165,8 +165,8 @@
     "place": "Mall of Asia Arena",
     "time1": "06:00 PM",
     "time": "06D : 08H : 03M : 30S",
-    "picture2": "PICTURE2",
-    "team2": "TNT KATROPA"
+    "picture2": "PICTURE3",
+    "team2": "GINEBRA"
   },
   {
     "picture": "PICTURE1",
@@ -175,18 +175,8 @@
     "place": "Mall of Asia Arena",
     "time1": "06:00 PM",
     "time": "06D : 08H : 03M : 30S",
-    "picture2": "PICTURE1",
-    "team2": "ROAD WARRIORS"
-  },
-  {
-    "picture": "PICTURE2",
-    "team1": "ROAD WARRIORS",
-    "date": "Wed Jun 22 2022",
-    "place": "Mall of Asia Arena",
-    "time1": "06:00 PM",
-    "time": "06D : 08H : 03M : 30S",
-    "picture2": "PICTURE2",
-    "team2": "TNT KATROPA"
+    "picture2": "PICTURE3",
+    "team2": "GINEBRA"
   }
 ]
 }
