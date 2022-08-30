@@ -150,7 +150,7 @@
   "teamList":[
   {
     "picture": "PICTURE1",
-    "team": "TNT KATROPA",
+    "team1": "TNT KATROPA",
     "date": "Wed Jun 22 2022",
     "place": "Mall of Asia Arena",
     "time1": "06:00 PM",
@@ -160,7 +160,7 @@
   },
   {
     "picture": "PICTURE2",
-    "team": "ROAD WARRIORS",
+    "team1": "ROAD WARRIORS",
     "date": "Wed Jun 22 2022",
     "place": "Mall of Asia Arena",
     "time1": "06:00 PM",
@@ -170,7 +170,7 @@
   },
   {
     "picture": "PICTURE1",
-    "team": "TNT KATROPA",
+    "team1": "TNT KATROPA",
     "date": "Wed Jun 22 2022",
     "place": "Mall of Asia Arena",
     "time1": "06:00 PM",
