@@ -247,5 +247,18 @@
     "team2": "ROAD WARRIORS"
   }
  
-]
+],
+ "userInfo": 
+  [
+   {
+    "picture": "PICTURE1",
+    "team1": "TNT KATROPA",
+    "date":"Wed Jun 22 2022",
+    "place": "Mall of Asia Arena",
+    "time1": "06:00 PM",
+    "time": "06D : 08H : 03M : 30S",
+    "picture2": "PICTURE1",
+    "team2": "ROAD WARRIORS"
+   } 
+  ]
 }
