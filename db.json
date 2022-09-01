@@ -261,5 +261,57 @@
     "picture2": "PICTURE1",
     "team2": "ROAD WARRIORS"
    } 
-  ]
+  ],
+  
+"MyPrediction": 
+  [
+    {
+      "id": 1,
+      "gameStatus": "PENDING",
+      "team1": "SAN MIGUEL",
+      "vs": "VS",
+      "team2": "TNT",
+      "date": "Fri Nov 22,2022 09:45pm"
+    },
+      {
+        "id": 2,
+      "gameStatus": "PENDING",
+      "team1": "GINEBRA",
+      "vs": "VS",
+      "team2": "BOLTS",
+      "date": "Fri Nov 23,2022 09:45pm"
+    },
+     {
+       "id": 3,
+       "gameStatus": "WON",
+      "team1": "PHOENIX",
+      "vs": "VS",
+      "team2": "BLACKWATER",
+      "date": "Fri Nov 23,2022 09:45pm"
+    },
+     {
+       "id": 4,
+       "gameStatus": "LOSE",
+      "team1": "TERRAFIRMA",
+      "vs": "VS",
+      "team2": "CONVERGE",
+      "date": "Fri Nov 23,2022 09:45pm"
+    },
+     {
+       "id": 5,
+       "gameStatus": "LOSE",
+      "team1": "NORTHPORT",
+      "vs": "VS",
+      "team2": "SAN MIGUEL",
+      "date": "Fri Nov 23,2022 09:45pm"
+    },
+     {
+       "id": 6,
+      "gameStatus": "WON",
+      "team1": "BRGY GINEBRA",
+      "vs": "VS",
+      "team2": "TNT",
+      "date": "Fri Nov 23,2022 09:45pm"
+     }
+    ]
 }
